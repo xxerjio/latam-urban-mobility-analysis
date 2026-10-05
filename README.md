@@ -6,22 +6,19 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 ## 📂 Contenido del repositorio
 
-- `notebooks/everpeak_analysis.ipynb`
+- `notebooks/everpeak_analysis.ipynb`  
   → Notebook principal con limpieza, EDA, distribuciones, outliers y conclusiones.
-
-## ▶ Cómo abrir el notebook 
-
-1. Abre el archivo `.ipynb` en GitHub
-
-## 📘 Cómo reproducir el análisis
-
-1. Abre `notebooks/everpeak_analysis.ipynb`
-2. Ejecuta las celdas en orden
-3. El notebook carga automáticamente el dataset desde `/data/` o desde un enlace público (según corresponda)
 
 ## 🧠 Objetivo del análisis
 
-- Identificar problemas de calidad de datos
-- Construir un pipeline de limpieza reproducible
-- Analizar comportamientos, distribuciones y outliers
+- Identificar problemas de calidad de datos.
+- Construir un pipeline de limpieza reproducible.
+- Analizar comportamientos, distribuciones y outliers.
+- Generar insights para el equipo de Estrategia e Integración de EverPeak.
+
+## 📘 Cómo reproducir el análisis
+
+1. Clona este repositorio o navega hasta la carpeta [Ver Notebook](./everpeak_analysis.ipynb).
+2. Abre y ejecuta `everpeak_analysis.ipynb` en tu entorno local (Jupyter Notebook / VS Code) o en Google Colab.
+3. El notebook carga automáticamente el dataset para procesar el pipeline de limpieza.tliers
 - Generar insights para el equipo de Estrategia e Integración de EverPeak
